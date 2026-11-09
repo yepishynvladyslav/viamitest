@@ -2,7 +2,7 @@
 
 **An independent mobile-first demo built for comparison with the existing VIAMI app.**
 
-![VIAMI TEST interface previews](docs/preview-screens.png)
+**Mobile demo:** after enabling GitHub Pages (Settings → Pages → Source: GitHub Actions), open **https://yepishynvladyslav.github.io/viamitest/**. Until Pages is enabled, use the source files below.
 
 ### Features in the demo
 
@@ -31,6 +31,6 @@ Open `http://localhost:8765`.
 4. Wait until **Actions → Publish VIAMI TEST to GitHub Pages** is successful.
 5. Visit `https://<your-login>.github.io/viamitest/` on a phone.
 
-A ready-made deployment workflow lives in `.github/workflows/pages.yml`. For complete Russian setup instructions, see [GITHUB_START_HERE.md](GITHUB_START_HERE.md).
+A ready-made deployment workflow lives in `.github/workflows/pages.yml`. GitHub Pages must first be enabled by a repository administrator. For complete Russian setup instructions, see [GITHUB_START_HERE.md](GITHUB_START_HERE.md).
 
 > **Disclaimer:** This is a standalone local prototype, not a copy of the original app. It has no real user authentication, server sync, identity verification, payment processing or privileged/admin access control. Do not upload actual ID documents, passwords or payment data. All interactive demo content is stored on your current device in browser storage.
