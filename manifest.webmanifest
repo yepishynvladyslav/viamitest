@@ -1,0 +1,17 @@
+{
+  "name": "VIAMI TEST — Travel, together",
+  "short_name": "VIAMI TEST",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101b22",
+  "theme_color": "#101b22",
+  "description": "Интерактивный прототип платформы путешествий (демо)",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
